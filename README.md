@@ -53,6 +53,8 @@ devtools::install_github("w1996jy/gwasExtra")
 ### APP usage method 1 (Rstudio)
 
 ```
+if (!requireNamespace("DT", quietly = TRUE)) {install.packages("DT")}
+library(DT)
 gwasExtra::run_app()
 ```
 
