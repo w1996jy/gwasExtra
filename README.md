@@ -54,7 +54,9 @@ devtools::install_github("w1996jy/gwasExtra")
 
 ```
 if (!requireNamespace("DT", quietly = TRUE)) {install.packages("DT")}
+if (!requireNamespace("CMplot", quietly = TRUE)) {install.packages("CMplot")}
 library(DT)
+library(CMplot)
 gwasExtra::run_app()
 ```
 
