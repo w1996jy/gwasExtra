@@ -64,7 +64,7 @@ gwasExtra::run_app()
 
 You can also directly visit the website https://pmyind-liangfei.shinyapps.io/gwasExtra/ to use the software.
 
-## Ait cookbook
+## gwasExtra cookbook
 
 Refer to https://w1996jy.github.io/gwasExtra/ for detailed usage instructions.
 
