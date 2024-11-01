@@ -57,6 +57,7 @@ if (!requireNamespace("DT", quietly = TRUE)) {install.packages("DT")}
 if (!requireNamespace("CMplot", quietly = TRUE)) {install.packages("CMplot")}
 library(DT)
 library(CMplot)
+library(data.table)
 gwasExtra::run_app()
 ```
 
