@@ -1,0 +1,27 @@
+Package: gwasExtra
+Title: An Amazing Shiny App
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Fei",
+           family = "Liang",
+           role = c("aut", "cre"),
+           email = "fyliangfei@163.com")
+Description: Shiny for downstream analysis of GWAS.
+License: MIT + file LICENSE
+Imports: 
+    DT,
+    golem,
+    shiny,
+    colourpicker,
+    CMplot,
+    data.table,
+    tidyverse,
+    purrr,
+    readxl,
+    dplyr,
+    bsicons,
+    bslib,
+    config
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
