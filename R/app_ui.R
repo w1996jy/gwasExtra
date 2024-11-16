@@ -15,7 +15,8 @@ app_ui <- function(request) {
       title = "gwasExtra",
       nav_panel(
         "Home page",
-        icon = bs_icon("bank")
+        icon = bs_icon("bank"),
+        homepage_ui("homepage")
       ),
       nav_menu(
         "Data check",
@@ -49,7 +50,8 @@ app_ui <- function(request) {
       ),
       nav_panel(
         "Help",
-        icon = bs_icon("exclamation-circle")
+        icon = bs_icon("exclamation-circle"),
+        help_ui("help")
       )
     )
   )
