@@ -59,6 +59,9 @@ gwasExtra::run_app()
 
 ## gwasExtra cookbook
 
+<a href="https://github.com/w1996jy/gwasExtraFile/blob/main/gwasExtra%20cookbook/README.md" target="_blank">gwasExtra Cookbook</a>
+
+
 Refer to [gwasExtra Cookbook](https://github.com/w1996jy/gwasExtraFile/blob/main/gwasExtra%20cookbook/README.md)
  for detailed usage instructions.
 
