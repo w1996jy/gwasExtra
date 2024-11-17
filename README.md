@@ -59,7 +59,7 @@ gwasExtra::run_app()
 
 ## gwasExtra cookbook
 
-Refer to https://w1996jy.github.io/gwasExtra/ for detailed usage instructions.
+Refer to https://github.com/w1996jy/gwasExtraFile/blob/main/gwasExtra%20cookbook/README.md for detailed usage instructions.
 
 ## Contributing
 
