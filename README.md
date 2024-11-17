@@ -53,15 +53,6 @@ devtools::install_github("w1996jy/gwasExtra")
 ### APP usage method 
 
 ```
-if (!requireNamespace("DT", quietly = TRUE)) {install.packages("DT")}
-if (!requireNamespace("CMplot", quietly = TRUE)) {install.packages("CMplot")}
-library(DT)
-library(CMplot)
-library(data.table)
-library(purrr)
-library(gwasExtra)
-library(tidyverse)
-library(readxl)
 gwasExtra::run_app()
 ```
 
